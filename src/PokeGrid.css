@@ -1,0 +1,17 @@
+.PokeGrid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    background-color: rgb(211, 70, 70);
+    width: 500px;
+    height: 500px;
+    justify-content: space-around;
+    align-items: center;
+    overflow: scroll;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
+
+ 
